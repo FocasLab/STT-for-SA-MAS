@@ -1,6 +1,6 @@
 This repository contains the MATLAB implementation of the paper: “Incorporating Social Awareness into Control of Unknown Multi-Agent Systems: A Real-Time Spatiotemporal Tubes Approach ⋆”
 
-📂** Repository Contents**
+**Repository Contents:**
 
 **main_2D.m**: Contains the STT implementation for a Socially Aware Multi-Agent System (SA-MAS) in a 2D environment for mobile robots.
 
