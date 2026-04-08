@@ -3,7 +3,7 @@ This repository contains the MATLAB implementation of the paper: “Incorporatin
 
 **Repository Contents:**
 
-**main_2D.m**: Contains the STT implementation for a Socially Aware Multi-Agent System (SA-MAS) in a 2D environment for mobile robots.
+-**main_2D.m**: Contains the STT implementation for a Socially Aware Multi-Agent System (SA-MAS) in a 2D environment for mobile robots.
 
 **main_3D.m**: Contains the STT implementation for a Socially Aware Multi-Agent System (SA-MAS) in a 3D environment for quadcopter systems.
 
