@@ -1,4 +1,5 @@
-This repository contains the MATLAB implementation of the paper: “Incorporating Social Awareness into Control of Unknown Multi-Agent Systems: A Real-Time Spatiotemporal Tubes Approach ⋆”
+# Incorporating Social Awareness into Control of Unknown Multi-Agent Systems: A Real-Time Spatiotemporal Tubes Approach
+This repository contains the MATLAB implementation of the paper: “Incorporating Social Awareness into Control of Unknown Multi-Agent Systems: A Real-Time Spatiotemporal Tubes Approach ”
 
 **Repository Contents:**
 
