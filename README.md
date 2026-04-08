@@ -8,3 +8,11 @@ Repository Contents:
   - control_3d.m: Controller implementation for the 3D SA-MAS system.
   - random_run.m: Contains the STT implementation for randomized simulations, where users can define their own parameters and run custom scenarios.
   - comparison/: Contains comparison scripts with three baseline algorithms.
+
+Requirements:  
+- MATLAB R2025a or newer  
+- No additional toolboxes required
+ 
+# License
+This repository is provided for research and educational use. Please contact the authors for other usage
+
