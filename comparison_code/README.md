@@ -1,1 +1,1 @@
-This folder contains comparison-related MATLAB scripts.
+This folder contains comparison with three baseline algorithms.
