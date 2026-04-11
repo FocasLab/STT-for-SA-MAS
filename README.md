@@ -18,13 +18,14 @@ Requirements:
 If you use this code in your research, please cite:  
 
 @ARTICLE{multi_social,
-  title={Incorporating Social Awareness into Control of Unknown Multi-Agent Systems: A Real-Time Spatiotemporal Tubes Approach},
-  
   author={Upadhyay, Siddhartha and Das, Ratnangshu and Jagtap, Pushpak},
-  
   journal={arXiv preprint arXiv:2510.25597},
-  
+  title={Incorporating Social Awareness into Control of Unknown Multi-Agent Systems: A Real-Time Spatiotemporal Tubes Approach},
   year={2025}
+  volume={},  
+  number={},  
+  pages={},  
+  doi={}  
 }
 
 
